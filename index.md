@@ -1,6 +1,8 @@
 ## Hi there future engineer!
 
-Hi I am Matt, an aspiring civil engineer in the future. I know why you are visiting me in my _"private blog" and was totally, clearly, and definitely was 
+Hi I am Matt, an aspiring civil engineer in the future.
+
+I know why you are visiting me in my _"private blog" and was totally, clearly, and definitely was 
 purposed for me and not for aspiring engineers who wants to know how to prepare in their journey to becoming engineers..._
 
 
