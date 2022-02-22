@@ -1,8 +1,6 @@
-### Hi there 👋
+### What's up! 👋
 
-
-**MatthiasPangiban/MatthiasPangiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm Matt...
 Here are some things you may know about me!
 
 - 👨‍🎓 I'm currently a high school student in the Ateneo de Naga University Junior High School.
