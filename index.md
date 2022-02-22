@@ -1,9 +1,8 @@
 ## Hi there future engineer!
 
-Hi I am Matt, an aspiring civil engineer in the future. I know why you are visiting me in my "*private blog" and was totally, clearly, and definitely was 
-purposed for me and not for aspiring engineers who wants to know how to prepare in their journey to becoming engineers...
+Hi I am Matt, an aspiring civil engineer in the future. I know why you are visiting me in my _"private blog" and was totally, clearly, and definitely was 
+purposed for me and not for aspiring engineers who wants to know how to prepare in their journey to becoming engineers..._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
